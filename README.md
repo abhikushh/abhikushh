@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Kushwaha
 - 👀 I’m interested in Software Engineer Role
-- 🌱 I’m currently working on Big Data
+- 🌱 I’m currently working in FIGms Inc. as a Software Engineer.
 - 💞️ I’m looking to collaborate
 - 📫 Reach me abhix.kush@gmail.com
 
